@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.1/TechonERP-3.0.1.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.1/TechonERP-3.0.1.zip",
-  "notes": "TechonERP 3.0.1 — Block future-dated transactions; editable expenses; void refund or keep-cash choice; legacy void cash repair; payment proof ID heal; blue doc links on Returns and Dashboard; cash book label polish.",
-  "publishedAt": "2026-07-28T13:12:06.540Z"
+  "version": "3.0.2",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.2/TechonERP-3.0.2.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.2/TechonERP-3.0.2.zip",
+  "notes": "TechonERP 3.0.2 — Fix installer license secret packaging so updates open normally without License API secret screen.",
+  "publishedAt": "2026-07-28T13:34:32.867Z"
 }
