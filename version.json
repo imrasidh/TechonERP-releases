@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.0/TechonERP-3.0.0.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.0/TechonERP-3.0.0.zip",
-  "notes": "TechonERP 3.0.0 — Enable Multi-PC / Switch to Standalone, safer MySQL force-replace migration, forgot-password set-new-password before ERP entry, support unlock salt fix, and related sync/auth hardening.",
-  "publishedAt": "2026-07-25T06:08:19.497Z"
+  "version": "3.0.1",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.1/TechonERP-3.0.1.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.1/TechonERP-3.0.1.zip",
+  "notes": "TechonERP 3.0.1 — Block future-dated transactions; editable expenses; void refund or keep-cash choice; legacy void cash repair; payment proof ID heal; blue doc links on Returns and Dashboard; cash book label polish.",
+  "publishedAt": "2026-07-28T13:12:06.540Z"
 }
