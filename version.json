@@ -1,7 +1,7 @@
 {
-  "version": "3.0.2",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.2/TechonERP-3.0.2.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.2/TechonERP-3.0.2.zip",
-  "notes": "TechonERP 3.0.2 — Fix installer license secret packaging so updates open normally without License API secret screen.",
-  "publishedAt": "2026-07-28T13:34:32.867Z"
+  "version": "3.0.3",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.3/TechonERP-3.0.3.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.3/TechonERP-3.0.3.zip",
+  "notes": "Fresh-invoice void protection, full cash reversal for void flows, party settlement tabs, and cashier login audit fix.",
+  "publishedAt": "2026-07-29T10:10:28.877Z"
 }
