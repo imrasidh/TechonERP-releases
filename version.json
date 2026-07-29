@@ -1,7 +1,7 @@
 {
-  "version": "3.0.3",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.3/TechonERP-3.0.3.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.3/TechonERP-3.0.3.zip",
-  "notes": "Fresh-invoice void protection, full cash reversal for void flows, party settlement tabs, and cashier login audit fix.",
-  "publishedAt": "2026-07-29T10:10:28.877Z"
+  "version": "3.0.4",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.4/TechonERP-3.0.4.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.4/TechonERP-3.0.4.zip",
+  "notes": "Invoice edit hardening and update modal improvements (confirm before download, header fix, plain-text release notes).",
+  "publishedAt": "2026-07-29T13:05:43.581Z"
 }
