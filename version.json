@@ -1,7 +1,7 @@
 {
-  "version": "3.0.5",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.5/TechonERP-3.0.5.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.5/TechonERP-3.0.5.zip",
-  "notes": "Dashboard recent sales, purchases, and repairs now fill large screens with more rows instead of a fixed 6-row gap.",
-  "publishedAt": "2026-07-29T13:33:11.569Z"
+  "version": "3.0.6",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.6/TechonERP-3.0.6.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.6/TechonERP-3.0.6.zip",
+  "notes": "Fix purchase return Process button when stock is valid; show current stock / capped Max Returnable on purchase returns; expense categories + Business Settings polish.",
+  "publishedAt": "2026-07-30T10:59:34.380Z"
 }
