@@ -1,7 +1,7 @@
 {
-  "version": "3.0.8",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.8/TechonERP-3.0.8.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.8/TechonERP-3.0.8.zip",
-  "notes": "Dashboard Sales Overview: choose Line, Bars, or Progress chart style (preference saved).",
-  "publishedAt": "2026-07-31T06:34:48.227Z"
+  "version": "3.0.9",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.9/TechonERP-3.0.9.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.9/TechonERP-3.0.9.zip",
+  "notes": "Barcode print & preview fixes: purchase Save+Print barcodes handoff, list print barcodes action, preview uses Label Design, barcodes page Enter→qty→product flow, reliable npm run dist.",
+  "publishedAt": "2026-07-31T13:36:26.642Z"
 }
