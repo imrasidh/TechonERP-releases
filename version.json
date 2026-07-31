@@ -1,7 +1,7 @@
 {
-  "version": "3.0.6",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.6/TechonERP-3.0.6.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.6/TechonERP-3.0.6.zip",
-  "notes": "Fix purchase return Process button when stock is valid; show current stock / capped Max Returnable on purchase returns; expense categories + Business Settings polish.",
-  "publishedAt": "2026-07-30T10:59:34.380Z"
+  "version": "3.0.7",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.7/TechonERP-3.0.7.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.7/TechonERP-3.0.7.zip",
+  "notes": "Restore invoice logo on A4/A5 prints; compact Tax Setup UI in Business Settings (readable dropdowns).",
+  "publishedAt": "2026-07-31T06:03:31.671Z"
 }
