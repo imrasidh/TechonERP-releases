@@ -1,7 +1,7 @@
 {
-  "version": "3.0.10",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.10/TechonERP-3.0.10.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.10/TechonERP-3.0.10.zip",
-  "notes": "Assets dispose/sell/recover; Sales Free/COD styled modals; modal close via X only; Accounts assets scroll; opening asset category fix; audit hardening (moneyRound, session, sync, GL).",
-  "publishedAt": "2026-08-03T11:49:58.355Z"
+  "version": "3.1.0",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.0/TechonERP-3.1.0.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.0/TechonERP-3.1.0.zip",
+  "notes": "Sales print preview direct open; Powered By TechonERP footer; asset isDepositLike + period-lock assetLog; modal close via X only; audit hardening.",
+  "publishedAt": "2026-08-03T12:44:58.390Z"
 }
