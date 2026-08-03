@@ -1,7 +1,7 @@
 {
-  "version": "3.0.9",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.9/TechonERP-3.0.9.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.9/TechonERP-3.0.9.zip",
-  "notes": "Barcode print & preview fixes: purchase Save+Print barcodes handoff, list print barcodes action, preview uses Label Design, barcodes page Enter→qty→product flow, reliable npm run dist.",
-  "publishedAt": "2026-07-31T13:36:26.642Z"
+  "version": "3.0.10",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.10/TechonERP-3.0.10.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.0.10/TechonERP-3.0.10.zip",
+  "notes": "Assets dispose/sell/recover; Sales Free/COD styled modals; modal close via X only; Accounts assets scroll; opening asset category fix; audit hardening (moneyRound, session, sync, GL).",
+  "publishedAt": "2026-08-03T11:49:58.355Z"
 }
