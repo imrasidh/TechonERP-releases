@@ -1,7 +1,7 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.0/TechonERP-3.1.0.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.0/TechonERP-3.1.0.zip",
-  "notes": "Sales print preview direct open; Powered By TechonERP footer; asset isDepositLike + period-lock assetLog; modal close via X only; audit hardening.",
-  "publishedAt": "2026-08-03T12:44:58.390Z"
+  "version": "3.1.1",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.1/TechonERP-3.1.1.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.1/TechonERP-3.1.1.zip",
+  "notes": "Product description on edit; Dummy Invoice POS tab (module toggle, no accounts/stock); tab separators Sales | Quotation | Dummy-Invoice; patch versioning 0-9 rollover.",
+  "publishedAt": "2026-08-04T12:33:24.020Z"
 }
