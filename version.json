@@ -1,7 +1,7 @@
 {
-  "version": "3.1.5",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.5/TechonERP-3.1.5.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.5/TechonERP-3.1.5.zip",
-  "notes": "Record entry beeps with menu mute toggle; purchase add-to-cart like Sales; Print matches Save PDF multi-page footers.",
-  "publishedAt": "2026-08-13T10:40:09.601Z"
+  "version": "3.1.6",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.6/TechonERP-3.1.6.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.6/TechonERP-3.1.6.zip",
+  "notes": "Fix invoice Print on Windows; A5+warranty stays one page with Thank you and Powered By at the bottom; Print uses the size already chosen in View & Print.",
+  "publishedAt": "2026-08-13T13:38:06.017Z"
 }
