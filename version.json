@@ -1,7 +1,7 @@
 {
-  "version": "3.1.4",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.4/TechonERP-3.1.4.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.4/TechonERP-3.1.4.zip",
-  "notes": "Repair entry full-screen UI, View/Print manage status, customer picker, convert-to-invoice stock parts keyboard flow, print accent blue.",
-  "publishedAt": "2026-08-07T06:33:40.697Z"
+  "version": "3.1.5",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.5/TechonERP-3.1.5.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.5/TechonERP-3.1.5.zip",
+  "notes": "Record entry beeps with menu mute toggle; purchase add-to-cart like Sales; Print matches Save PDF multi-page footers.",
+  "publishedAt": "2026-08-13T10:40:09.601Z"
 }
