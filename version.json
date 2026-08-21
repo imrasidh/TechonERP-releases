@@ -1,7 +1,7 @@
 {
-  "version": "3.1.9",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.9/TechonERP-3.1.9.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.9/TechonERP-3.1.9.zip",
-  "notes": "Warranty Update on View & Print; expiry from invoice issue date; Quotation/Dummy warranty toolbar match invoices; A5 warranty preview clip fix.",
-  "publishedAt": "2026-08-21T10:21:50.264Z"
+  "version": "3.2.0",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.0/TechonERP-3.2.0.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.0/TechonERP-3.2.0.zip",
+  "notes": "Compact unit chips and backtick cycle on Sales/Purchases; fix category Other remapping, discard cart draft, and short PSB false matches.",
+  "publishedAt": "2026-08-21T16:18:54.185Z"
 }
