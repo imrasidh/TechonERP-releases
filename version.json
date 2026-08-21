@@ -1,7 +1,7 @@
 {
-  "version": "3.1.8",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.8/TechonERP-3.1.8.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.8/TechonERP-3.1.8.zip",
-  "notes": "Warranty page with policy periods, print dropdown, Active/All tracker; barcode/PSB label and invoice print polish; sync warranty records for LAN.",
-  "publishedAt": "2026-08-21T09:37:51.869Z"
+  "version": "3.1.9",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.9/TechonERP-3.1.9.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.9/TechonERP-3.1.9.zip",
+  "notes": "Warranty Update on View & Print; expiry from invoice issue date; Quotation/Dummy warranty toolbar match invoices; A5 warranty preview clip fix.",
+  "publishedAt": "2026-08-21T10:21:50.264Z"
 }
