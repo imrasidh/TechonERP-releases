@@ -1,7 +1,7 @@
 {
-  "version": "3.1.7",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.7/TechonERP-3.1.7.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.7/TechonERP-3.1.7.zip",
-  "notes": "TechonERP Master Edition 3.1.7: harder license lockout recovery, COD address labels via Print/PDF/WhatsApp (A4/A5 + show price), Sales Serial/IMEI + invoice notes, Money Transfer, and module UI polish.",
-  "publishedAt": "2026-08-21T05:30:53.675Z"
+  "version": "3.1.8",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.8/TechonERP-3.1.8.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.1.8/TechonERP-3.1.8.zip",
+  "notes": "Warranty page with policy periods, print dropdown, Active/All tracker; barcode/PSB label and invoice print polish; sync warranty records for LAN.",
+  "publishedAt": "2026-08-21T09:37:51.869Z"
 }
