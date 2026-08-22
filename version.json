@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.0/TechonERP-3.2.0.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.0/TechonERP-3.2.0.zip",
-  "notes": "Compact unit chips and backtick cycle on Sales/Purchases; fix category Other remapping, discard cart draft, and short PSB false matches.",
-  "publishedAt": "2026-08-21T16:18:54.185Z"
+  "version": "3.2.2",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.2/TechonERP-3.2.2.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.2/TechonERP-3.2.2.zip",
+  "notes": "Product attributes on Sales/Purchase/OB; stock-filtered Sale attrs; barcodes and invoices show any attributes.",
+  "publishedAt": "2026-08-22T15:25:45.192Z"
 }
