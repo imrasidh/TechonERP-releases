@@ -1,7 +1,7 @@
 {
-  "version": "3.2.3",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.3/TechonERP-3.2.3.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.3/TechonERP-3.2.3.zip",
-  "notes": "Fix Sales Hold F8; Purchase scan opens Add Product with manufacturer barcode; align Repairs F5/F6 with Sales; remove duplicate Purchase F6.",
-  "publishedAt": "2026-08-24T06:51:57.138Z"
+  "version": "3.2.4",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.4/TechonERP-3.2.4.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.4/TechonERP-3.2.4.zip",
+  "notes": "Cloud sync KV mirror for Cloud Viewer; receipt Open invoice duplicate; inventory price display",
+  "publishedAt": "2026-08-27T17:45:30.918Z"
 }
