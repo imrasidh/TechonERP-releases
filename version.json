@@ -1,7 +1,7 @@
 {
-  "version": "3.2.4",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.4/TechonERP-3.2.4.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.4/TechonERP-3.2.4.zip",
-  "notes": "Cloud sync KV mirror for Cloud Viewer; receipt Open invoice duplicate; inventory price display",
-  "publishedAt": "2026-08-27T17:45:30.918Z"
+  "version": "3.2.5",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.5/TechonERP-3.2.5.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.5/TechonERP-3.2.5.zip",
+  "notes": "Global searchable units; dual stock labels; shop bank details on statement reminders; no similar-name save warn",
+  "publishedAt": "2026-08-27T18:46:31.637Z"
 }
