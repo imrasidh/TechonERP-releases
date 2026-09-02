@@ -1,7 +1,7 @@
 {
-  "version": "3.2.9",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.9/TechonERP-3.2.9.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.2.9/TechonERP-3.2.9.zip",
-  "notes": "TechonERP Windows installer",
-  "publishedAt": "2026-08-31T07:39:25.397Z"
+  "version": "3.3.0",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.0/TechonERP-3.3.0.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.0/TechonERP-3.3.0.zip",
+  "notes": "Fix fresh-install disk save warning during first account setup (tc3_admin_name / tc3_gl_mode race).",
+  "publishedAt": "2026-09-02T10:23:51.981Z"
 }
