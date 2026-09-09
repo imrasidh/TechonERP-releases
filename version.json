@@ -1,7 +1,7 @@
 {
-  "version": "3.3.1",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.1/TechonERP-3.3.1.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.1/TechonERP-3.3.1.zip",
-  "notes": "Dashboard: low stock uses reorder level; sales totals include tax. Cloud Skin lock and viewer dashboard fixes.",
-  "publishedAt": "2026-09-04T09:28:12.433Z"
+  "version": "3.3.3",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.3/TechonERP-3.3.3.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.3/TechonERP-3.3.3.zip",
+  "notes": "Counter password reset via Main PC; Multi-PC sync and login hardening; desk swap and Settings unlock fixes",
+  "publishedAt": "2026-09-09T11:40:12.095Z"
 }
