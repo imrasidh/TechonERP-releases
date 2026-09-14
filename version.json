@@ -1,7 +1,7 @@
 {
-  "version": "3.3.4",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.4/TechonERP-3.3.4.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.4/TechonERP-3.3.4.zip",
-  "notes": "Report Generate: searchable filters and profit report; Cloud Skin select controls stable (centered, no shrink/jump).",
-  "publishedAt": "2026-09-10T12:12:42.196Z"
+  "version": "3.3.5",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.5/TechonERP-3.3.5.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.5/TechonERP-3.3.5.zip",
+  "notes": "Multi-PC: smoother Main invoice save (skip self re-hydrate), Counter sees Main sales without waiting; Master Edition COGS/consumable labels on Cloud Skin.",
+  "publishedAt": "2026-09-14T12:11:14.099Z"
 }
