@@ -1,7 +1,7 @@
 {
-  "version": "3.3.5",
-  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.5/TechonERP-3.3.5.zip",
-  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.5/TechonERP-3.3.5.zip",
-  "notes": "Multi-PC: smoother Main invoice save (skip self re-hydrate), Counter sees Main sales without waiting; Master Edition COGS/consumable labels on Cloud Skin.",
-  "publishedAt": "2026-09-14T12:11:14.099Z"
+  "version": "3.3.6",
+  "url": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.6/TechonERP-3.3.6.zip",
+  "download": "https://github.com/imrasidh/TechonERP-releases/releases/download/v3.3.6/TechonERP-3.3.6.zip",
+  "notes": "TechonERP Master Edition 3.3.6: new logo and navy brand chrome across desktop app.",
+  "publishedAt": "2026-09-15T13:14:12.285Z"
 }
